@@ -11,6 +11,11 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "API Reference",
+        "openapi": "https://cdn.fasttrack.net/FastTrackAPIv2.json"
+    },
+      {
+      
         "tab": "Guides",
         "groups": [
           {
